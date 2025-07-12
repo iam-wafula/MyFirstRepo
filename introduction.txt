@@ -1,0 +1,5 @@
+ Brief Introduction About Myself
+
+My name is Shelvin Wafula. I am currently learning Git and GitHub to improve my version control skills. I’m excited about collaborating on projects and becoming a better developer.
+
+In my free time, I enjoy reading, tech, and helping others learn. I look forward to applying these skills in real-world projects.MyFirstRepo
